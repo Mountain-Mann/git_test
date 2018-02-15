@@ -1,1 +1,1 @@
-poop and fartz and important things to check out prior to dowload
+This is Coleman's kinda first git project. (At least I kinda understand it now)
